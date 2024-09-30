@@ -74,4 +74,4 @@ The response will include a structured breakdown of the query, step-by-step outp
 Contributions are welcome! Feel free to submit a pull request or open an issue for feature requests or bug reports. Since this is a simple implementation, there's plenty of room for improvements.
 
 ## License
-This project is licensed under the GNU General Public License v3.0.
+This project is licensed under the MIT license.
