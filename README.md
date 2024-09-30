@@ -6,7 +6,7 @@ The middleware acts as a smart bridge, breaking down user questions into logical
 
 ## Attribution
 
-Inspired by ReflectionAnyLLM (https://github.com/antibitcoin/ReflectionAnyLLM) and PyThoughtChain (https://github.com/devinambron/PyThoughtChain)
+Inspired by ReflectionAnyLLM (https://github.com/antibitcoin/ReflectionAnyLLM) and PyThoughtChain (https://github.com/devinambron/PyThoughtChain).
 
 ## Features
 
