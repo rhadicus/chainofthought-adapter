@@ -30,7 +30,7 @@ The middleware has three main stages:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ChainOfThought-Adapter.git
+git clone https://github.com/rhadicus/chainofthought-adapter.git
 cd ChainOfThought-Adapter
 ```
 
