@@ -1,6 +1,6 @@
 # ChainOfThought-Adapter
 
-**ChainOfThought-Adapter** is a simple middleware built with Flask that connects to LM Studio (or any local language model) to process complex user requests using a "Chain of Thought" method, store the intermediate steps, and then stream the final synthesized response back to the client. This project started because I wanted an easy way to use Chain of Thought reasoning with LM Studio.
+**ChainOfThought-Adapter** is a simple middleware built with Flask that connects to LM Studio (or any local language model) to process complex user requests using a "Chain of Thought" method that asks the LLM to create steps to solve a problem, stores the responses to the steps, and then streams the final synthesized response back to the client. This project started because I wanted an easy way to use Chain of Thought reasoning with LM Studio.
 
 The middleware acts as a smart bridge, breaking down user questions into logical steps, handling each step separately, and then putting together a clear final response. While it was made for personal use, it can help anyone interested in structured prompt processing.
 
