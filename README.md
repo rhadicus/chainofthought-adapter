@@ -13,10 +13,6 @@ The middleware acts as a smart bridge, breaking down user questions into logical
 - **Dynamic Token Management**: Adjusts token allocation based on context size to improve response quality.
 - **Error Handling & Retry Logic**: Includes basic error handling with a retry mechanism.
 
-## Motivation
-
-I created this repository to use a Chain of Thought approach with LM Studio when I couldn't find any existing solutions. This middleware focuses on functionality and proving the concept rather than production-ready quality.
-
 ## Architecture
 
 The middleware has three main stages:
