@@ -4,6 +4,10 @@
 
 The middleware acts as a smart bridge, breaking down user questions into logical steps, handling each step separately, and then putting together a clear final response. While it was made for personal use, it can help anyone interested in structured prompt processing.
 
+## Attribution
+
+Inspired by ReflectionAnyLLM (https://github.com/antibitcoin/ReflectionAnyLLM) and PyThoughtChain (https://github.com/devinambron/PyThoughtChain)
+
 ## Features
 
 - **Quick & Simple Implementation**: Designed for fast prototyping of a Chain of Thought solution with minimal setup.
